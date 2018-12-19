@@ -1,0 +1,11 @@
+C:\repos\ChangeCalculator\ChangeCalculator\bin\Debug\netcoreapp2.2\ChangeCalculator.deps.json
+C:\repos\ChangeCalculator\ChangeCalculator\bin\Debug\netcoreapp2.2\ChangeCalculator.runtimeconfig.json
+C:\repos\ChangeCalculator\ChangeCalculator\bin\Debug\netcoreapp2.2\ChangeCalculator.runtimeconfig.dev.json
+C:\repos\ChangeCalculator\ChangeCalculator\bin\Debug\netcoreapp2.2\ChangeCalculator.dll
+C:\repos\ChangeCalculator\ChangeCalculator\bin\Debug\netcoreapp2.2\ChangeCalculator.pdb
+C:\repos\ChangeCalculator\ChangeCalculator\obj\Debug\netcoreapp2.2\ChangeCalculator.csprojAssemblyReference.cache
+C:\repos\ChangeCalculator\ChangeCalculator\obj\Debug\netcoreapp2.2\ChangeCalculator.csproj.CoreCompileInputs.cache
+C:\repos\ChangeCalculator\ChangeCalculator\obj\Debug\netcoreapp2.2\ChangeCalculator.AssemblyInfoInputs.cache
+C:\repos\ChangeCalculator\ChangeCalculator\obj\Debug\netcoreapp2.2\ChangeCalculator.AssemblyInfo.cs
+C:\repos\ChangeCalculator\ChangeCalculator\obj\Debug\netcoreapp2.2\ChangeCalculator.dll
+C:\repos\ChangeCalculator\ChangeCalculator\obj\Debug\netcoreapp2.2\ChangeCalculator.pdb
